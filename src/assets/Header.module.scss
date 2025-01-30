@@ -1,0 +1,84 @@
+.header {
+  position: relative;
+  width: 100%;
+  background: linear-gradient(180deg, #ff54ae 100%, #0094E7B0 69%);
+  padding: 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: Roboto,sans-serif;
+
+
+}
+
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  max-width: 1200px;
+}
+
+.logo {
+  width: 120px;
+}
+
+.navLinkList {
+  display: flex;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.subscribeContainer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.subscribeInput {
+  padding: 5px;
+  padding-left: 20px;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  height: 44px;
+  width: 253px;
+  outline: none;
+
+  &::placeholder {
+    color: black;
+  }
+}
+
+
+.subscribeButton {
+  background-color: #ffffff;
+  color: #EF2779;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: background 0.3s;
+  width: 121px;
+  height: 54px;
+
+  &:hover {
+    background-color: #d02066;
+  }
+}
+
+.link {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  transition: color 0.3s;
+
+  &:hover {
+    color: #EF2779;
+  }
+}
+
+.activeLink {
+  color: #EF2779;
+  font-weight: bold;
+}
