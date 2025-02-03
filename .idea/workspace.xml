@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a781da62-f989-44f2-9b8f-53f3e8ead697" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design.txt" beforeDir="false" afterPath="$PROJECT_DIR$/design.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/Header.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-    </list>
+    <list default="true" id="a781da62-f989-44f2-9b8f-53f3e8ead697" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +117,7 @@
       <workItem from="1738207620316" duration="293000" />
       <workItem from="1738208134114" duration="2429000" />
       <workItem from="1738210700487" duration="519000" />
-      <workItem from="1738343396973" duration="2657000" />
+      <workItem from="1738343396973" duration="2992000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: created header and styled it">
       <option name="closed" value="true" />
@@ -229,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738211185469</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Update website design and select a new layout; started styling the header">
+      <option name="closed" value="true" />
+      <created>1738346719023</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738346719023</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +250,7 @@
     <MESSAGE value="feat: add new RepayLoan component with basic structure; layout logic and styles are not fully implemented yet" />
     <MESSAGE value="feat: Complete the layout of the Footer component&#10;&#10;- Finalized the Footer component in RepayLoan.&#10;- Added styles for the container and footer.&#10;- Layout is not fully aligned with the design mockup; further adjustments are needed." />
     <MESSAGE value="feat: Add Header component with basic styling" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Add Header component with basic styling" />
+    <MESSAGE value="Update website design and select a new layout; started styling the header" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update website design and select a new layout; started styling the header" />
   </component>
 </project>
